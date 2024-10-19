@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\MostRainfall\bin\Debug\net8.0-windows\MostRainfall.exe
+C:\Users\HELLO\Source\Repos\MostRainfall\bin\Debug\net8.0-windows\MostRainfall.deps.json
+C:\Users\HELLO\Source\Repos\MostRainfall\bin\Debug\net8.0-windows\MostRainfall.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\MostRainfall\bin\Debug\net8.0-windows\MostRainfall.dll
+C:\Users\HELLO\Source\Repos\MostRainfall\bin\Debug\net8.0-windows\MostRainfall.pdb
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.frmRainfall.resources
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.Resources.resources
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.dll
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\refint\MostRainfall.dll
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.pdb
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\MostRainfall.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\MostRainfall\obj\Debug\net8.0-windows\ref\MostRainfall.dll
